@@ -1,6 +1,6 @@
 # EX 08: Windows-basic-commands-batchscript
 
-## DATE:
+## DATE: 22/10/24
 
 ## AIM:
 To execute Windows basic commands and batch scripting
